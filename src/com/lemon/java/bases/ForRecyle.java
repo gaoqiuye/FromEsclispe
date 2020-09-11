@@ -9,7 +9,7 @@ public class ForRecyle {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		for(int i=1;i<=10;i++) {
+		for(int i=1;i<=11;i++) {
 			//语法解释：i代表循环开始的值，
 			//第二个表达式“i<=10"代表的是循环下去的条件，只有满足条件，循环才会走下去，才会执行循环体
 			//i++代表走完了一次循环，所以i要加1；三个表达式直接用;隔开
